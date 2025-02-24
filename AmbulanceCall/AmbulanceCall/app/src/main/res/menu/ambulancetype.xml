@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/available"
+        android:title="Any Available"
+        />
+    <item
+        android:id="@+id/collective"
+        android:title="Collective"
+        />
+    <item
+        android:id="@+id/individual"
+        android:title="Individual"
+        />
+    <item
+        android:id="@+id/mobileICU"
+        android:title="MobileICU"
+        />
+    <item
+        android:id="@+id/basicLifeSupport"
+        android:title="Basic Life Support"
+        />
+</menu>

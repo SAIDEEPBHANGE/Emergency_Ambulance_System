@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577128300518",
+    "project_id": "ambulancecall-3088a",
+    "storage_bucket": "ambulancecall-3088a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577128300518:android:43e62fd5f69573c4f76027",
+        "android_client_info": {
+          "package_name": "com.project.ambulancecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577128300518-1cd5m0sgpdn1ivfsk8je9o5f4ac39l7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ivUvkl6e3JsnQi9CzMR331Z-7srrsj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577128300518-1cd5m0sgpdn1ivfsk8je9o5f4ac39l7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
