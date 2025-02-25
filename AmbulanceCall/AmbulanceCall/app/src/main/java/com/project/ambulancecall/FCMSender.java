@@ -11,7 +11,7 @@ public class FCMSender {
     /*
      * URL where we request to send notification and the key to send notification using admin sdk
      * */
-    private static final String FCM_URL = "https://fcm.googleapis.com/fcm/send", KEY_STRING = "key=AAAAhl-G_-Y:APA91bFpkyMqbShQBrYyJpavs5ilyTlz0J6fH0TffUBW--Smeo7mkppwnDfLQUh6v0vOccXdRZ3ufDvlxkwK3T1RcJHs9s4fixN8hoV2zBvSbAi3gtgpfgTxVdBOhWpidke_xzmCoAjx";
+    private static final String FCM_URL = "https://fcm.googleapis.com/fcm/send", KEY_STRING = "";
 
     OkHttpClient client = new OkHttpClient();
 
